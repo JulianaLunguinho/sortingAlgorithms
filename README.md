@@ -13,3 +13,7 @@
 > Merge sort;
 > Quicksort;
 > Heap sort.
+
+#Gitpage
+
+https://julianalunguinho.github.io/sortingAlgorithms/
